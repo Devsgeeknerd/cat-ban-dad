@@ -1,6 +1,14 @@
 <!-- Título -->
 # Bancos de Dados
 
+***Conteúdo da Categoria:***
+
+A categoria Bancos de Dados é crucial para o desenvolvimento e administração de sistemas que armazenam e gerenciam grandes volumes de dados.
+
+Ao completar esta categoria, terá uma compreensão sólida em:
+
+Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
+
 <!-- Informações -->
 ## &#8505; Informações
 
