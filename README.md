@@ -30,6 +30,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 * **Bancos de Dados Não Relacionais (NoSQL):** Bancos de dados que não utilizam tabelas relacionais para armazenar dados.
   * MongoDB (document store);
   * Redis (key-value store);
+  * Cassandra (column store);
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
