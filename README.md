@@ -8,6 +8,7 @@ A categoria Bancos de Dados é crucial para o desenvolvimento e administração 
 Ao completar esta categoria, terá uma compreensão sólida em:
 
 * **Fundamentos de Bancos de Dados:** Conceitos básicos e terminologia dos bancos de dados.
+  * Estrutura de dados e organização;
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
