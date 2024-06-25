@@ -18,6 +18,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Joins (inner join, left join, right join);
   * Subconsultas e consultas aninhadas;
   * Funções agregadas (sum,count, avg, etc.);
+  * Otimização de consultas.
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
