@@ -20,6 +20,8 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Funções agregadas (sum,count, avg, etc.);
   * Otimização de consultas.
 
+* **Bancos de Dados Relacionais:** Bancos de dados que utilizam tabelas para armazenar dados.
+
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
 <!-- Informações -->
