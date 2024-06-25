@@ -21,6 +21,8 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Otimização de consultas.
 
 * **Bancos de Dados Relacionais:** Bancos de dados que utilizam tabelas para armazenar dados.
+  * MySQL;
+  * PostgreSQL;
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
