@@ -10,6 +10,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 * **Fundamentos de Bancos de Dados:** Conceitos básicos e terminologia dos bancos de dados.
   * Estrutura de dados e organização;
   * Tipos de bancos de dados (relacionais e não relacionais);
+  * Sistemas de gerenciamento de banco de dados (dbms);
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
