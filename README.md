@@ -13,7 +13,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Sistemas de gerenciamento de banco de dados (dbms);
   * Modelagem de dados e diagramas ER (entidade-relacionamento).
 
-* **SQL (Structured Query Language):**
+* **SQL (Structured Query Language):** Linguagem padrão para gerenciamento e manipulação de bancos de dados relacionais.
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
