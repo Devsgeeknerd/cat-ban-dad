@@ -11,6 +11,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Estrutura de dados e organização;
   * Tipos de bancos de dados (relacionais e não relacionais);
   * Sistemas de gerenciamento de banco de dados (dbms);
+  * Modelagem de dados e diagramas ER (entidade-relacionamento).
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
