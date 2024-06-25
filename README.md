@@ -16,6 +16,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 * **SQL (Structured Query Language):** Linguagem padrão para gerenciamento e manipulação de bancos de dados relacionais.
   * Consultas básicas (select, insert, update, delete);
   * Joins (inner join, left join, right join);
+  * Subconsultas e consultas aninhadas;
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
