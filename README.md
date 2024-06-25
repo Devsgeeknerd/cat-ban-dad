@@ -24,6 +24,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * MySQL;
   * PostgreSQL;
   * Microsoft SQL Server;
+  * Oracle Database;
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
