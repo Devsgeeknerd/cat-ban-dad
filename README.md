@@ -33,6 +33,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Cassandra (column store);
   * Neo4j (graph database);
   * Casos de uso e vantagens;
+  * Modelagem de dados em NoSQL.
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
