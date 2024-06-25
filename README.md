@@ -27,6 +27,8 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Oracle Database;
   * Configuração, instalação e administração.
 
+* **Bancos de Dados Não Relacionais (NoSQL):** Bancos de dados que não utilizam tabelas relacionais para armazenar dados.
+
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
 <!-- Informações -->
