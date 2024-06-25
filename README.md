@@ -31,6 +31,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * MongoDB (document store);
   * Redis (key-value store);
   * Cassandra (column store);
+  * Neo4j (graph database);
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
