@@ -28,6 +28,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Configuração, instalação e administração.
 
 * **Bancos de Dados Não Relacionais (NoSQL):** Bancos de dados que não utilizam tabelas relacionais para armazenar dados.
+  * MongoDB (document store);
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
