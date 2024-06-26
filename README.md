@@ -58,6 +58,12 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
+> [!IMPORTANT]\
+> **Dicas de Estudo:**
+>
+> * Prática Regular:
+>   * Trabalhe com diferentes tipos de bancos de dados para entender seus casos de uso e vantagens.
+
 <!-- Informações -->
 ## &#8505; Informações
 
