@@ -49,6 +49,8 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Data Warehousing;
   * Integração de dados e ETL.
 
+* **Segurança de Dados:** Práticas e técnicas para proteger dados armazenados em bancos de dados.
+
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
 <!-- Informações -->
