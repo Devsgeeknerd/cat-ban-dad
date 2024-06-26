@@ -63,6 +63,9 @@ Essas habilidades são essenciais para qualquer desenvolvedor ou administrador q
 >
 > * Prática Regular:
 >   * Trabalhe com diferentes tipos de bancos de dados para entender seus casos de uso e vantagens.
+>
+> * Projetos Prático:
+>   * Crie projetos que envolvam design, implementação e otimização de bancos de dados.
 
 <!-- Informações -->
 ## &#8505; Informações
