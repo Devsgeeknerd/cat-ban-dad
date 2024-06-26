@@ -52,6 +52,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 * **Segurança de Dados:** Práticas e técnicas para proteger dados armazenados em bancos de dados.
   * Criptografia de dados;
   * Controle de acesso e autenticação;
+  * Segurança em trânsito e em repouso;
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
