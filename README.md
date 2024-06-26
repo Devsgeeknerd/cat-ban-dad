@@ -69,6 +69,9 @@ Essas habilidades são essenciais para qualquer desenvolvedor ou administrador q
 >
 > * Participação em Comunidades:
 >   * Envolva-se em comunidades online para resolver dúvidas e compartilhar conhecimento.
+>
+> * Leitura e Atualização:
+>   * Mantenha-se atualizado com as últimas tendências e tecnologias em bancos de dados.
 
 <!-- Informações -->
 ## &#8505; Informações
