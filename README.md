@@ -36,6 +36,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Modelagem de dados em NoSQL.
 
 * **Administração de Banco de Dados:** Tarefas e responsabilidades de um administrador de banco de dados (DBA).
+  * Backup e recuperação;
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
