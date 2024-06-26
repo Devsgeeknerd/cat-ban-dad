@@ -39,6 +39,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Backup e recuperação;
   * Replicação e alta disponibilidade;
   * Monitoramento e ajuste de desempenho;
+  * Gerenciamento de usuários e permissões;
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
