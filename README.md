@@ -42,6 +42,8 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Gerenciamento de usuários e permissões;
   * Planejamento de capacidade e escalabilidade.
 
+* **Big Data e Bancos de Dados em Nuvem:** Tecnologias e serviços para gerenciar grandes volumes de dados e bancos de dados em nuvem.
+
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
 <!-- Informações -->
