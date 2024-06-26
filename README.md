@@ -47,6 +47,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Apache Spank;
   * Serviços de banco de dados em nuvem;
   * Data Warehousing;
+  * Integração de dados e ETL.
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
