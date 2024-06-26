@@ -66,6 +66,9 @@ Essas habilidades são essenciais para qualquer desenvolvedor ou administrador q
 >
 > * Projetos Prático:
 >   * Crie projetos que envolvam design, implementação e otimização de bancos de dados.
+>
+> * Participação em Comunidades:
+>   * Envolva-se em comunidades online para resolver dúvidas e compartilhar conhecimento.
 
 <!-- Informações -->
 ## &#8505; Informações
