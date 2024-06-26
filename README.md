@@ -53,6 +53,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
   * Criptografia de dados;
   * Controle de acesso e autenticação;
   * Segurança em trânsito e em repouso;
+  * Auditoria e compliance;
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
