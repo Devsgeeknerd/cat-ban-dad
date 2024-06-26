@@ -44,6 +44,7 @@ Ao completar esta categoria, terá uma compreensão sólida em:
 
 * **Big Data e Bancos de Dados em Nuvem:** Tecnologias e serviços para gerenciar grandes volumes de dados e bancos de dados em nuvem.
   * Hadoop e HDFS;
+  * Apache Spank;
 
 Essas habilidades são essenciais para qualquer desenvolvedor ou administrador que deseja criar sistemas eficientes, seguros e escaláveis.
 
